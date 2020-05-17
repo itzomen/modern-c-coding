@@ -1,25 +1,34 @@
-# modern-c-coding
-Set up c/c++ with the best and modern code editor i.e vs code and code like a pro with the stunning features
+# modern-c-coding on windows
+Set up c/c++ with the best and modern code editor i.e vs code and code like a pro with the stunning features.
+Configuration for vs code that allows the c/c++ files to be compiled and a '.exe' file created base on the name of your .c/.cpp file.
 
-#What it is?
-A Visual Studio Code configuration that allows the .c/.cpp files to be compiled and the '.exe' file to be executed, will be created with the same name as the base .c/.cpp file.
+# VSCode
+One of the best and highly featured code editor
+# Chocolatey
+Package Manager for Windows like apt-get for linux, simply it is use to install packages
+# MinGW
+Free and open source software development environment to create Microsoft Windows applications
 
-#Downlaod
+# Downlaod and installs
 
 VSCode https://code.visualstudio.com/download
 
-Downlaod Chocoaley https://chocolatey.org/install
+Downlaod Chocolatey https://chocolatey.org/install
+Install with this command Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+
+MinGW https://chocolatey.org/packages/mingw
 
 
-#Prerequisites:
+# Prerequisites:
 
 Chocolatey Package Manager for Windows
 
+MinGW
+
 VSCode
 
-#How to get it work?
+# Procedure
 Install Chocolatey on Windows
-Open Powershell/CMD (Admin) and run choco install mingw.
-Once it is installed, clone the .vscode folder from this repo to your current C/C++ project directory.
-
-Now you can get your C/C++ project up and running with proper file names and degugging enabled
+Open Powershell as Admin ( win + X ) and run choco install mingw.
+Once it is installed, copy the .vscode folder configuration from this repo to your current C/C++ project directory.
+Run your c/c++ projects in vs code or from the generated 'file-name'.exe file
