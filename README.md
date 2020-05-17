@@ -14,7 +14,6 @@ Free and open source software development environment to create Microsoft Window
 VSCode https://code.visualstudio.com/download
 
 Downlaod Chocolatey https://chocolatey.org/install
-Install with this command Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 MinGW https://chocolatey.org/packages/mingw
 
