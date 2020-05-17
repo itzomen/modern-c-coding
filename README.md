@@ -6,9 +6,10 @@ A Visual Studio Code configuration that allows the .c/.cpp files to be compiled 
 
 #Downlaod
 
+VSCode https://code.visualstudio.com/download
+
 Downlaod Chocoaley https://chocolatey.org/install
 
-VSCode https://code.visualstudio.com/download
 
 #Prerequisites:
 
