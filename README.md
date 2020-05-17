@@ -16,3 +16,4 @@ VSCode
 Install Chocolatey on Windows
 Open Powershell/CMD (Admin) and run choco install mingw.
 Once it is installed, clone the .vscode folder from this repo to your current C/C++ project directory.
+Now you can get your C/C++ project up and running with proper file names and degugging enabled
