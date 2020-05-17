@@ -28,6 +28,9 @@ VSCode
 
 # Procedure
 Install Chocolatey on Windows
+
 Open Powershell as Admin ( win + X ) and run choco install mingw.
+
 Once it is installed, copy the .vscode folder configuration from this repo to your current C/C++ project directory.
+
 Run your c/c++ projects in vs code or from the generated 'file-name'.exe file
