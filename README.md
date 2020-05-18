@@ -2,6 +2,9 @@
 Set up c/c++ with the best and modern code editor i.e vs code and code like a pro with the stunning features.
 Configuration for vs code that allows the c/c++ files to be compiled and a '.exe' file created base on the name of your .c/.cpp file.
 
+# Tutorial Video
+YouTube https://youtu.be/Y_j0LnsbkNM
+
 # VSCode
 One of the best and highly featured code editor
 # Chocolatey
